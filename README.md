@@ -26,6 +26,10 @@ Then run the following command:
 $ pod install
 ```
 
+### Swift Package Manager
+
+Dreams now also supports integration via Swift Package Manager. Add the Dreams package to your project and remember to link it to all relevant targets.
+
 ### Manually
 
 If you prefer not to use Cocoapods, you can simply integrate Dreams into your project by dragging in the files from the `Sources` folder.
